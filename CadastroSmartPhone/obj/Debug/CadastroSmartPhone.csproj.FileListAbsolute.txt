@@ -1,0 +1,9 @@
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\bin\Debug\CadastroSmartPhone.exe.config
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\bin\Debug\CadastroSmartPhone.exe
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\bin\Debug\CadastroSmartPhone.pdb
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.csprojAssemblyReference.cache
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.Form1.resources
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.Properties.Resources.resources
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.csproj.GenerateResource.cache
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.exe
+C:\Users\usrlab15\Documents\Diego\CadastroSmartPhone\CadastroSmartPhone\obj\Debug\CadastroSmartPhone.pdb
